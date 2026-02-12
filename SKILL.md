@@ -1,11 +1,9 @@
 ---
 name: ego-transcendence-coaching
-description: Help high-performing individuals transcend ego attachment to serve collective
-  purpose without diminishing their excellence, using Phil Jackson's approach to managing
-  superstar personalities.
+description: Help high-performing individuals transcend ego attachment to serve collective purpose without diminishing their excellence, using Phil Jackson's approach to managing superstar personalities.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - ego-transcendence-coaching
